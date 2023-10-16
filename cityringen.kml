@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Aksel Møllers Have</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>55.6860698,12.5328685,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Frederiksberg</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>55.6807410,12.5323488,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Frederiksberg Allé</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>55.6734871,12.5405342,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Enghave Plads</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>55.6671785,12.5468059,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>København H</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>55.6713493,12.5639281,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rådhuspladsen</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>55.6764091,12.5682655,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Gammel Strand</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>55.6775465,12.5789528,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kongens Nytorv</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>55.6799636,12.5857681,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Marmorkirken</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>55.6851171,12.5890621,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Østerport</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>55.6929185,12.5859929,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Trianglen</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>55.6992520,12.5756404,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Poul Henningsens Plads</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>55.7095176,12.5761722,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Vibenhus Runddel</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>55.7064400,12.5647465,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Skjolds Plads</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>55.7035331,12.5487094,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nørrebro</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>55.7000546,12.5378865,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nørrebros Runddel</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>55.6935248,12.5488500,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nuuks Plads</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>55.6885040,12.5424574,0</coordinates>
+    </Point>
+  </Placemark>
+</kml>
